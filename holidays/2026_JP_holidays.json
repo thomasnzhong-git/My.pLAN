@@ -1,0 +1,22 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "JP 元日 (New Year's Day)" },
+    { "schedule_date": "2026-01-12", "plan_note": "JP 成人の日 (Coming of Age Day)" },
+    { "schedule_date": "2026-02-11", "plan_note": "JP 建国記念の日 (Foundation Day)" },
+    { "schedule_date": "2026-02-23", "plan_note": "JP 天皇誕生日 (Emperor's Birthday)" },
+    { "schedule_date": "2026-03-20", "plan_note": "JP 春分の日 (Vernal Equinox Day)" },
+    { "schedule_date": "2026-04-29", "plan_note": "JP 昭和の日 (Showa Day)" },
+    { "schedule_date": "2026-05-03", "plan_note": "JP 憲法記念日 (Constitution Memorial Day)" },
+    { "schedule_date": "2026-05-04", "plan_note": "JP みどりの日 (Greenery Day)" },
+    { "schedule_date": "2026-05-05", "plan_note": "JP こどもの日 (Children's Day)" },
+    { "schedule_date": "2026-05-06", "plan_note": "JP 振替休日 (Substitute Holiday for May 3rd)" },
+    { "schedule_date": "2026-07-20", "plan_note": "JP 海の日 (Marine Day)" },
+    { "schedule_date": "2026-08-11", "plan_note": "JP 山の日 (Mountain Day)" },
+    { "schedule_date": "2026-09-21", "plan_note": "JP 敬老の日 (Respect for the Aged Day)" },
+    { "schedule_date": "2026-09-22", "plan_note": "JP 国민의 휴일 (Bridge Holiday)" },
+    { "schedule_date": "2026-09-23", "plan_note": "JP 秋分の日 (Autumnal Equinox Day)" },
+    { "schedule_date": "2026-10-12", "plan_note": "JP スポーツの日 (Sports Day)" },
+    { "schedule_date": "2026-11-03", "plan_note": "JP 文化の日 (Culture Day)" },
+    { "schedule_date": "2026-11-23", "plan_note": "JP 勤労感謝の日 (Labor Thanksgiving Day)" }
+  ]
+}

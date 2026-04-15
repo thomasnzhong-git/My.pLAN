@@ -1,0 +1,15 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "US New Year's Day" },
+    { "schedule_date": "2026-01-19", "plan_note": "US Martin Luther King Jr. Day" },
+    { "schedule_date": "2026-02-16", "plan_note": "US Washington's Birthday" },
+    { "schedule_date": "2026-05-25", "plan_note": "US Memorial Day" },
+    { "schedule_date": "2026-06-19", "plan_note": "US Juneteenth National Independence Day" },
+    { "schedule_date": "2026-07-03", "plan_note": "US Independence Day (Observed)" },
+    { "schedule_date": "2026-09-07", "plan_note": "US Labor Day" },
+    { "schedule_date": "2026-10-12", "plan_note": "US Columbus Day" },
+    { "schedule_date": "2026-11-11", "plan_note": "US Veterans Day" },
+    { "schedule_date": "2026-11-26", "plan_note": "US Thanksgiving Day" },
+    { "schedule_date": "2026-12-25", "plan_note": "US Christmas Day" }
+  ]
+}
