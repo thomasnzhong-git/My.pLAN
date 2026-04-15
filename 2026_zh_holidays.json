@@ -1,0 +1,16 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "ZH 元旦 (New Year's Day)" },
+    { "schedule_date": "2026-02-17", "plan_note": "ZH 春节 (Lunar New Year)" },
+    { "schedule_date": "2026-02-18", "plan_note": "ZH 春节假期 (Spring Festival Holiday)" },
+    { "schedule_date": "2026-02-19", "plan_note": "ZH 春节假期 (Spring Festival Holiday)" },
+    { "schedule_date": "2026-04-06", "plan_note": "ZH 清明节 补休 (Ching Ming Festival Observed)" },
+    { "schedule_date": "2026-05-01", "plan_note": "ZH 劳动节 (Labour Day)" },
+    { "schedule_date": "2026-06-19", "plan_note": "ZH 端午节 (Dragon Boat Festival)" },
+    { "schedule_date": "2026-09-25", "plan_note": "ZH 中秋节 (Mid-Autumn Festival)" },
+    { "schedule_date": "2026-10-01", "plan_note": "ZH 国庆节 (National Day)" },
+    { "schedule_date": "2026-10-02", "plan_note": "ZH 国庆节假期 (National Day Holiday)" },
+    { "schedule_date": "2026-10-05", "plan_note": "ZH 国庆节假期 (National Day Holiday)" },
+    { "schedule_date": "2026-10-06", "plan_note": "ZH 国庆节假期 (National Day Holiday)" }
+  ]
+}
