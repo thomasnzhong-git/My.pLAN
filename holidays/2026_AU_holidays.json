@@ -1,0 +1,13 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "AU New Year's Day" },
+    { "schedule_date": "2026-01-26", "plan_note": "AU Australia Day" },
+    { "schedule_date": "2026-04-03", "plan_note": "AU Good Friday" },
+    { "schedule_date": "2026-04-06", "plan_note": "AU Easter Monday" },
+    { "schedule_date": "2026-04-25", "plan_note": "AU ANZAC Day" },
+    { "schedule_date": "2026-06-08", "plan_note": "AU King's Birthday" },
+    { "schedule_date": "2026-10-05", "plan_note": "AU Labour Day" },
+    { "schedule_date": "2026-12-25", "plan_note": "AU Christmas Day" },
+    { "schedule_date": "2026-12-28", "plan_note": "AU Boxing Day (Observed)" }
+  ]
+}

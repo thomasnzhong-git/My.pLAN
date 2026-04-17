@@ -1,0 +1,13 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "CA New Year's Day" },
+    { "schedule_date": "2026-04-03", "plan_note": "CA Good Friday" },
+    { "schedule_date": "2026-05-18", "plan_note": "CA Victoria Day" },
+    { "schedule_date": "2026-07-01", "plan_note": "CA Canada Day" },
+    { "schedule_date": "2026-09-07", "plan_note": "CA Labour Day" },
+    { "schedule_date": "2026-10-12", "plan_note": "CA Thanksgiving Day" },
+    { "schedule_date": "2026-11-11", "plan_note": "CA Remembrance Day" },
+    { "schedule_date": "2026-12-25", "plan_note": "CA Christmas Day" },
+    { "schedule_date": "2026-12-28", "plan_note": "CA Boxing Day (Observed)" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "holidays": [
+    { "schedule_date": "2026-01-01", "plan_note": "DE Neujahr (New Year's Day)" },
+    { "schedule_date": "2026-04-03", "plan_note": "DE Karfreitag (Good Friday)" },
+    { "schedule_date": "2026-04-06", "plan_note": "DE Ostermontag (Easter Monday)" },
+    { "schedule_date": "2026-05-01", "plan_note": "DE Tag der Arbeit (Labour Day)" },
+    { "schedule_date": "2026-05-14", "plan_note": "DE Christi Himmelfahrt (Ascension Day)" },
+    { "schedule_date": "2026-05-25", "plan_note": "DE Pfingstmontag (Whit Monday)" },
+    { "schedule_date": "2026-10-03", "plan_note": "DE Tag der Deutschen Einheit (German Unity Day)" },
+    { "schedule_date": "2026-12-25", "plan_note": "DE 1. Weihnachtstag (Christmas Day)" },
+    { "schedule_date": "2026-12-26", "plan_note": "DE 2. Weihnachtstag (Boxing Day)" }
+  ]
+}
