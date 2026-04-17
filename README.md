@@ -67,6 +67,9 @@
 * Aタイプ選択時に曜日表示を追加
 </details>
 
+---
+**Last Updated:** 2026-04-17
+
 # My Plan App - Data Repository
 
 [English](#english) | [한국어](#한국어) | [日本語](#日本語) | [简体中文](#简体中文)
